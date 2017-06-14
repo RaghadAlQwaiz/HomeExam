@@ -15,7 +15,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <p><h1>
-        <span class="style11">Welcome to Capital Hospital</span>
+        <span class="style11">Welcome to Capital Hospital Raghad is Typing</span>
         <p class="style10">
             The care that you deserve!</h1></p>
         <p>&nbsp;</p>
