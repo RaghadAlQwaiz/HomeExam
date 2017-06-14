@@ -1,0 +1,16 @@
+﻿body 
+{
+    background-color:#E2EAEB
+}
+
+#stylish
+{
+    color: #1E6A99;
+    Font-Family:@Arial Unicode MS;
+    font-style:italic
+}
+.Tag 
+{color: #E4186A;
+     font-weight:bolder;
+  font-family:@Meiryo
+    }
